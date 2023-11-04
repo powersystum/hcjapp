@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hcjapp/static/css/main.30f17c3b.css",
+    "main.js": "/hcjapp/static/js/main.73affda5.js",
+    "static/js/787.d3befce1.chunk.js": "/hcjapp/static/js/787.d3befce1.chunk.js",
+    "index.html": "/hcjapp/index.html",
+    "main.30f17c3b.css.map": "/hcjapp/static/css/main.30f17c3b.css.map",
+    "main.73affda5.js.map": "/hcjapp/static/js/main.73affda5.js.map",
+    "787.d3befce1.chunk.js.map": "/hcjapp/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30f17c3b.css",
+    "static/js/main.73affda5.js"
+  ]
+}
